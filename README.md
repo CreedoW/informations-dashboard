@@ -2,7 +2,7 @@
 A simple client + server + cloud informations dashboard made by me with Boostrap Studio, PHP,
 HTML, CSS and JavaScript.
 
-Image efects, uploader and settings are not included in those files.
+Image effects, uploader and settings are not included in those files.
 
 Created for my own CDN.
 
