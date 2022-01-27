@@ -2,6 +2,8 @@
 A simple client + server + cloud informations dashboard made by me with Boostrap Studio, PHP,
 HTML, CSS and JavaScript.
 
+Image efects, uploader and settings are not included in those files.
+
 Created for my own CDN.
 
 
@@ -10,6 +12,7 @@ Drop all files in a folder after editing index.php
 
 
 # Demo
+
 
 ![alt text](https://cdn.mwah.ro/i/Po47V.png)
 
