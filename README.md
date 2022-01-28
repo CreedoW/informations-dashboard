@@ -6,9 +6,27 @@ Image effects, uploader and settings are not included in those files.
 
 Created for my own CDN.
 
+# Requirements
+
+- PHP 5+
+- apache2 or nginx webserver
+- super user access
+- git
+- 10IQ (ATLEAST)
 
 # How to use it?
-Drop all files in a folder after editing index.php 
+
+$ sudo su
+
+$ yum install php apache2 git -y && cd /var/www/ && rm -rf html && git clone github.com/CreedoW/informations-dashboard && mv informations-dashboard html
+
+or
+
+$ apt install php apache2 git -y && cd /var/www/ && rm -rf html && git clone github.com/CreedoW/informations-dashboard && mv informations-dashboard html
+
+Set path to your own folder on index.php:
+
+Visit your VPS ip address and admire it 😎.
 
 
 # Demo
