@@ -24,7 +24,7 @@ or
 
 $ apt install php apache2 git -y && cd /var/www/ && rm -rf html && git clone github.com/CreedoW/informations-dashboard && mv informations-dashboard html
 
-Set path to your own folder on index.php:
+Set path to your own folder on index.php:5
 
 Visit your VPS ip address and admire it 😎.
 
