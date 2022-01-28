@@ -27,6 +27,11 @@ Set path to your own folder on index.php:5
 
 Visit your VPS ip address and admire it 😎.
 
+# Coming soon
+
+- File Manager
+  - See files on browser from any location
+
 
 # Demo
 
