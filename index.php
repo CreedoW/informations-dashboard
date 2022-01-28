@@ -5,7 +5,7 @@ include('UserInfo.php');
 $directory = "/home/Mwah.ro/cdn.mwah.ro/i";
 $files = scandir($directory);
 $filess = count($files)-2;
-$disk = '/dev/vda1';
+$disk = '/';
 $date1 = new DateTime("now");
 $date2 = new DateTime("2022-01-03");
 $interval = $date1->diff($date2);
