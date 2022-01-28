@@ -2,7 +2,7 @@
 A simple client + server + cloud informations dashboard made by me with Boostrap Studio, PHP,
 HTML, CSS and JavaScript.
 
-Image effects, uploader and settings are not included in those files.
+```**Image effects, uploader and settings are not included in those files.**```
 
 Created for my own CDN.
 
@@ -10,19 +10,18 @@ Created for my own CDN.
 
 - PHP 5+
 - apache2 or nginx webserver
-- super user access
+- super user access (sudo su)
 - git
-- 10IQ (ATLEAST)
 
 # How to use it?
 
-$ sudo su
+> $ sudo su
 
-$ yum install php apache2 git -y && cd /var/www/ && rm -rf html && git clone github.com/CreedoW/informations-dashboard && mv informations-dashboard html
+> $ yum install php apache2 git -y && cd /var/www/ && rm -rf html && git clone github.com/CreedoW/informations-dashboard && mv informations-dashboard html
 
 or
 
-$ apt install php apache2 git -y && cd /var/www/ && rm -rf html && git clone github.com/CreedoW/informations-dashboard && mv informations-dashboard html
+> $ apt install php apache2 git -y && cd /var/www/ && rm -rf html && git clone github.com/CreedoW/informations-dashboard && mv informations-dashboard html
 
 Set path to your own folder on index.php:5
 
